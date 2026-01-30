@@ -11,36 +11,22 @@
 
 ---
 
-## 🎮 Who We Are
-
-LumaBlossom is a dedicated team of Minecraft developers creating mods, tools, and custom launcher. We believe in pushing the boundaries of what's possible in Minecraft while maintaining excellent user experience and performance.
-
 ## 🚀 Our Projects
 
 - **[DeathMarker](https://modrinth.com/mod/deathmarker)** - Shows a death marker with timer and distance to help you find your items!
 
 - **[LumaLauncher]** - A feature-rich custom Minecraft launcher with modpack management/sync, Curseforge/Modrinth all resources installation and even more!
 
-## 💡 What We Build
-
-- 🎯 **Performance-focused mods** that enhance gameplay without sacrificing FPS
-- 🌐 **Community-driven projects** built with feedback from players
-
 ## 🤝 Get Involved
 
 We welcome contributions from developers of all skill levels!
 
 - 🐛 Report bugs or request features via [Issues](https://github.com/orgs/LumaBlossom/discussions)
-- 💬 Join our [Discord community](https://discord.gg/xBCAX38J5V)
 - ⭐ Star our repositories to show your support
 
 ## 📊 Our Stats
 
-![LumaBlossom stats](github-metrics.svg)
-
-## 📫 Connect With Us
-
-- **Email:** blossomluna@gmail.com
+![LumaBlossom stats](../github-metrics.svg)
 
 ---
 
