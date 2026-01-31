@@ -14,6 +14,7 @@
 ## 🚀 Our Projects
 
 - **[DeathMarker](https://modrinth.com/mod/deathmarker)** - Shows a death marker with timer and distance to help you find your items!
+- **[QuickEat](https://modrinth.com/mod/QuickEat)** - Automatically eats the best food from your inventory with smart sorting and anti-cheat protection!
 
 - **[LumaLauncher]** - A feature-rich custom Minecraft launcher with modpack management/sync, Curseforge/Modrinth all resources installation and even more!
 
