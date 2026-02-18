@@ -7,6 +7,8 @@
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xBCAX38J5V)
 [![Website](https://img.shields.io/badge/Modrinth-Visit-80EF80?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/organization/luma)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R71T92UU)
+
 </div>
 
 ---
